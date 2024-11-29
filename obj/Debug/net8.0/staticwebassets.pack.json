@@ -1,0 +1,1929 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/obj/Debug/net8.0/scopedcss/projectbundle/unjobzone-portal.bundle.scp.css",
+      "PackagePath": "staticwebassets/unjobzone-portal.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/css/plugins.min.css",
+      "PackagePath": "staticwebassets/assets/css/plugins.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/css/style.css",
+      "PackagePath": "staticwebassets/assets/css/style.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-duotone-900.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-duotone-900.eot"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-duotone-900.html",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-duotone-900.html"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-duotone-900.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-duotone-900.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-duotone-900.ttf"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-duotone-900.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-duotone-900.woff"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-duotone-900.woff2"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-duotone-901.html",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-duotone-901.html"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-light-300.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-light-300.eot"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-light-300.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-light-300.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-light-300.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-light-300.ttf"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-light-300.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-light-300.woff"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-light-300.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-light-300.woff2"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-thin-100.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-thin-100.ttf"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-thin-100.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-thin-100.woff2"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/fontawesome/fontawesome.min.css",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome/fontawesome.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/arrow-lock.svg",
+      "PackagePath": "staticwebassets/assets/fonts/icon/arrow-lock.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/css/animation.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/css/animation.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/css/rt-icons-codes.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/css/rt-icons-codes.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/css/rt-icons-embedded.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/css/rt-icons-embedded.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/css/rt-icons-ie7-codes.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/css/rt-icons-ie7-codes.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/css/rt-icons-ie7.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/css/rt-icons-ie7.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/css/rt-icons.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/css/rt-icons.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/css/animation.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/css/animation.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/css/rt-icons-codes.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/css/rt-icons-codes.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/css/rt-icons-embedded.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/css/rt-icons-embedded.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/css/rt-icons-ie7-codes.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/css/rt-icons-ie7-codes.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/css/rt-icons-ie7.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/css/rt-icons-ie7.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/css/rt-icons.css",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/css/rt-icons.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/font/rt-icons.eot",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/font/rt-icons.eot"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/font/rt-icons.svg",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/font/rt-icons.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/font/rt-icons.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/font/rt-icons.ttf"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/font/rt-icons.woff",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/font/rt-icons.woff"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/font/rt-icons.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/font/rt-icons.woff2"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/rt-icons.eot",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/rt-icons.eot"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/rt-icons.svg",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/rt-icons.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/rt-icons.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/rt-icons.ttf"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/rt-icons.woff",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/rt-icons.woff"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/fonts/icon/font/rt-icons.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/icon/font/rt-icons.woff2"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/author/1.svg",
+      "PackagePath": "staticwebassets/assets/img/author/1.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/author/2.svg",
+      "PackagePath": "staticwebassets/assets/img/author/2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/author/3.svg",
+      "PackagePath": "staticwebassets/assets/img/author/3.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/author/4.svg",
+      "PackagePath": "staticwebassets/assets/img/author/4.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/author/5.svg",
+      "PackagePath": "staticwebassets/assets/img/author/5.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/author/6.svg",
+      "PackagePath": "staticwebassets/assets/img/author/6.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/author/7.svg",
+      "PackagePath": "staticwebassets/assets/img/author/7.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/author/8.svg",
+      "PackagePath": "staticwebassets/assets/img/author/8.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/author/9.svg",
+      "PackagePath": "staticwebassets/assets/img/author/9.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/author/img.svg",
+      "PackagePath": "staticwebassets/assets/img/author/img.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/breadcrumb/breadcrumb.png",
+      "PackagePath": "staticwebassets/assets/img/breadcrumb/breadcrumb.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/breadcrumb/shape-1.svg",
+      "PackagePath": "staticwebassets/assets/img/breadcrumb/shape-1.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/breadcrumb/shape-2.svg",
+      "PackagePath": "staticwebassets/assets/img/breadcrumb/shape-2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/breadcrumb/shape-3.svg",
+      "PackagePath": "staticwebassets/assets/img/breadcrumb/shape-3.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/dashboard/logout.png",
+      "PackagePath": "staticwebassets/assets/img/dashboard/logout.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/dashboard/p-1.webp",
+      "PackagePath": "staticwebassets/assets/img/dashboard/p-1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/dashboard/p-2.webp",
+      "PackagePath": "staticwebassets/assets/img/dashboard/p-2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/dashboard/p-3.webp",
+      "PackagePath": "staticwebassets/assets/img/dashboard/p-3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/dashboard/p-4.webp",
+      "PackagePath": "staticwebassets/assets/img/dashboard/p-4.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/dashboard/proifle.svg",
+      "PackagePath": "staticwebassets/assets/img/dashboard/proifle.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/fav.png",
+      "PackagePath": "staticwebassets/assets/img/fav.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/favicon-16x16.png",
+      "PackagePath": "staticwebassets/assets/img/favicon-16x16.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/favicon.ico",
+      "PackagePath": "staticwebassets/assets/img/favicon.ico"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/favicon_io/android-chrome-192x192.png",
+      "PackagePath": "staticwebassets/assets/img/favicon_io/android-chrome-192x192.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/favicon_io/android-chrome-512x512.png",
+      "PackagePath": "staticwebassets/assets/img/favicon_io/android-chrome-512x512.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/favicon_io/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/assets/img/favicon_io/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/favicon_io/favicon-16x16.png",
+      "PackagePath": "staticwebassets/assets/img/favicon_io/favicon-16x16.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/favicon_io/favicon-32x32.png",
+      "PackagePath": "staticwebassets/assets/img/favicon_io/favicon-32x32.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/favicon_io/favicon.ico",
+      "PackagePath": "staticwebassets/assets/img/favicon_io/favicon.ico"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/favicon_io/site.webmanifest",
+      "PackagePath": "staticwebassets/assets/img/favicon_io/site.webmanifest"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/footer/footer__bg.png",
+      "PackagePath": "staticwebassets/assets/img/footer/footer__bg.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/app__svg.svg",
+      "PackagePath": "staticwebassets/assets/img/hom-4/app__svg.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/banner/Illustration.png",
+      "PackagePath": "staticwebassets/assets/img/hom-4/banner/Illustration.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/banner/header__four__bg.svg",
+      "PackagePath": "staticwebassets/assets/img/hom-4/banner/header__four__bg.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/blog/1.webp",
+      "PackagePath": "staticwebassets/assets/img/hom-4/blog/1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/blog/2.webp",
+      "PackagePath": "staticwebassets/assets/img/hom-4/blog/2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/blog/3.webp",
+      "PackagePath": "staticwebassets/assets/img/hom-4/blog/3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/cta.svg",
+      "PackagePath": "staticwebassets/assets/img/hom-4/cta.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/cta__shape.svg",
+      "PackagePath": "staticwebassets/assets/img/hom-4/cta__shape.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/footer__bg.svg",
+      "PackagePath": "staticwebassets/assets/img/hom-4/footer__bg.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/testimonial/Image.png",
+      "PackagePath": "staticwebassets/assets/img/hom-4/testimonial/Image.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/testimonial/author-1.svg",
+      "PackagePath": "staticwebassets/assets/img/hom-4/testimonial/author-1.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/hom-4/testimonial/testimonial-bg.png",
+      "PackagePath": "staticwebassets/assets/img/hom-4/testimonial/testimonial-bg.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/Group 585.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/Group 585.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/app/Group 601.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/app/Group 601.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/app/app-store-white.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/app/app-store-white.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/app/app-store-whtie.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/app/app-store-whtie.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/app/app-store.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/app/app-store.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/app/app_screen.png",
+      "PackagePath": "staticwebassets/assets/img/home-1/app/app_screen.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/app/play-store-white.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/app/play-store-white.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/app/play-store.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/app/play-store.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/app/shape.png",
+      "PackagePath": "staticwebassets/assets/img/home-1/app/shape.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/banner/banner-shape-2.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/banner/banner-shape-2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/banner/banner-shape.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/banner/banner-shape.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/banner/header__background.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/banner/header__background.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/banner/image_1x.webp",
+      "PackagePath": "staticwebassets/assets/img/home-1/banner/image_1x.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/banner/image_2x.webp",
+      "PackagePath": "staticwebassets/assets/img/home-1/banner/image_2x.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/blog/1.webp",
+      "PackagePath": "staticwebassets/assets/img/home-1/blog/1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/blog/2.webp",
+      "PackagePath": "staticwebassets/assets/img/home-1/blog/2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/blog/3.webp",
+      "PackagePath": "staticwebassets/assets/img/home-1/blog/3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/brand/b51.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/brand/b51.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/brand/image1.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/brand/image1.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/brand/image2.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/brand/image2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/brand/image3.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/brand/image3.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/brand/image4.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/brand/image4.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/brand/image5.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/brand/image5.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/brand/linkedin-logo-png-20321.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/brand/linkedin-logo-png-20321.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/cat/1.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/cat/1.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/cat/2.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/cat/2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/cat/3.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/cat/3.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/cat/4.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/cat/4.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/cat/background.png",
+      "PackagePath": "staticwebassets/assets/img/home-1/cat/background.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/cat__bg.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/cat__bg.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/company/amazon.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/company/amazon.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/company/apple.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/company/apple.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/company/facebook.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/company/facebook.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/company/figma.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/company/figma.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/company/google.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/company/google.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/company/in.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/company/in.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/company/medium.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/company/medium.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/company/microsoft.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/company/microsoft.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/company/udemy.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/company/udemy.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/company/upwork.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/company/upwork.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/process/icon-1.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/process/icon-1.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/process/icon-2.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/process/icon-2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/process/icon-3.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/process/icon-3.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/sc.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/sc.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/scc-2.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/scc-2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/scc-3.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/scc-3.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/scc.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/scc.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/testimonial/author.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-1/testimonial/author.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/testimonial/testimonial__bg.png",
+      "PackagePath": "staticwebassets/assets/img/home-1/testimonial/testimonial__bg.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/we-are/image.webp",
+      "PackagePath": "staticwebassets/assets/img/home-1/we-are/image.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-1/we-are/image__bg.svg",
+      "PackagePath": "staticwebassets/assets/img/home-1/we-are/image__bg.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/author/1.svg",
+      "PackagePath": "staticwebassets/assets/img/home-2/author/1.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/author/3.svg",
+      "PackagePath": "staticwebassets/assets/img/home-2/author/3.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/author/4.svg",
+      "PackagePath": "staticwebassets/assets/img/home-2/author/4.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/banner__text__icon.svg",
+      "PackagePath": "staticwebassets/assets/img/home-2/banner__text__icon.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/blog/1.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-2/blog/1.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/dest/1.webp",
+      "PackagePath": "staticwebassets/assets/img/home-2/dest/1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/dest/2.webp",
+      "PackagePath": "staticwebassets/assets/img/home-2/dest/2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/dest/3.webp",
+      "PackagePath": "staticwebassets/assets/img/home-2/dest/3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/dest/4.webp",
+      "PackagePath": "staticwebassets/assets/img/home-2/dest/4.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/dest/5.webp",
+      "PackagePath": "staticwebassets/assets/img/home-2/dest/5.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/dest/6.webp",
+      "PackagePath": "staticwebassets/assets/img/home-2/dest/6.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/footer.png",
+      "PackagePath": "staticwebassets/assets/img/home-2/footer.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/header.webp",
+      "PackagePath": "staticwebassets/assets/img/home-2/header.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/job/bg__shape.svg",
+      "PackagePath": "staticwebassets/assets/img/home-2/job/bg__shape.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/section__bg.png",
+      "PackagePath": "staticwebassets/assets/img/home-2/section__bg.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-2/section__bg2.png",
+      "PackagePath": "staticwebassets/assets/img/home-2/section__bg2.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/about/about-image.webp",
+      "PackagePath": "staticwebassets/assets/img/home-3/about/about-image.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/banner/Group 585.svg",
+      "PackagePath": "staticwebassets/assets/img/home-3/banner/Group 585.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/banner/banner__shape.svg",
+      "PackagePath": "staticwebassets/assets/img/home-3/banner/banner__shape.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/banner/home_three.png",
+      "PackagePath": "staticwebassets/assets/img/home-3/banner/home_three.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/banner/man.png",
+      "PackagePath": "staticwebassets/assets/img/home-3/banner/man.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/banner/man.webp",
+      "PackagePath": "staticwebassets/assets/img/home-3/banner/man.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/footer__bg.png",
+      "PackagePath": "staticwebassets/assets/img/home-3/footer__bg.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/funfact__bg.png",
+      "PackagePath": "staticwebassets/assets/img/home-3/funfact__bg.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/job/1.webp",
+      "PackagePath": "staticwebassets/assets/img/home-3/job/1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/job/2.webp",
+      "PackagePath": "staticwebassets/assets/img/home-3/job/2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/job/3.webp",
+      "PackagePath": "staticwebassets/assets/img/home-3/job/3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/job/4.webp",
+      "PackagePath": "staticwebassets/assets/img/home-3/job/4.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-3/job/5.webp",
+      "PackagePath": "staticwebassets/assets/img/home-3/job/5.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/about.webp",
+      "PackagePath": "staticwebassets/assets/img/home-5/about.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/about/shape.svg",
+      "PackagePath": "staticwebassets/assets/img/home-5/about/shape.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/author/1.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/author/1.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/author/2.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/author/2.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/author/3.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/author/3.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/author/4.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/author/4.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/banner/banner__background.png",
+      "PackagePath": "staticwebassets/assets/img/home-5/banner/banner__background.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/banner/banner__image.webp",
+      "PackagePath": "staticwebassets/assets/img/home-5/banner/banner__image.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/banner/dot__shape.svg",
+      "PackagePath": "staticwebassets/assets/img/home-5/banner/dot__shape.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cat/1.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/cat/1.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cat/2.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/cat/2.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cat/3.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/cat/3.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cat/4.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/cat/4.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cat/5.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/cat/5.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cat/6.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/cat/6.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cat/7.zip",
+      "PackagePath": "staticwebassets/assets/img/home-5/cat/7.zip"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cat/8.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-5/cat/8.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cta/shape.svg",
+      "PackagePath": "staticwebassets/assets/img/home-5/cta/shape.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cta/shape_1.svg",
+      "PackagePath": "staticwebassets/assets/img/home-5/cta/shape_1.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/cta/shape_2.svg",
+      "PackagePath": "staticwebassets/assets/img/home-5/cta/shape_2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/explore/1.webp",
+      "PackagePath": "staticwebassets/assets/img/home-5/explore/1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/explore/2.webp",
+      "PackagePath": "staticwebassets/assets/img/home-5/explore/2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/explore/3.webp",
+      "PackagePath": "staticwebassets/assets/img/home-5/explore/3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-5/testimonial.webp",
+      "PackagePath": "staticwebassets/assets/img/home-5/testimonial.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/about/1.webp",
+      "PackagePath": "staticwebassets/assets/img/home-6/about/1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/about/2.webp",
+      "PackagePath": "staticwebassets/assets/img/home-6/about/2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/about/shape.svg",
+      "PackagePath": "staticwebassets/assets/img/home-6/about/shape.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/apply-shape.svg",
+      "PackagePath": "staticwebassets/assets/img/home-6/apply-shape.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/apply.webp",
+      "PackagePath": "staticwebassets/assets/img/home-6/apply.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/banner/banner-image-1.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-6/banner/banner-image-1.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/banner/banner-image-2.jpg",
+      "PackagePath": "staticwebassets/assets/img/home-6/banner/banner-image-2.jpg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/banner/banner-shape.svg",
+      "PackagePath": "staticwebassets/assets/img/home-6/banner/banner-shape.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/banner/banner__bg.png",
+      "PackagePath": "staticwebassets/assets/img/home-6/banner/banner__bg.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/blog.webp",
+      "PackagePath": "staticwebassets/assets/img/home-6/blog.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/icon/data.svg",
+      "PackagePath": "staticwebassets/assets/img/home-6/icon/data.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/icon/design.svg",
+      "PackagePath": "staticwebassets/assets/img/home-6/icon/design.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/icon/development.svg",
+      "PackagePath": "staticwebassets/assets/img/home-6/icon/development.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/icon/health.svg",
+      "PackagePath": "staticwebassets/assets/img/home-6/icon/health.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/icon/icon.svg",
+      "PackagePath": "staticwebassets/assets/img/home-6/icon/icon.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/home-6/icon/marketing.svg",
+      "PackagePath": "staticwebassets/assets/img/home-6/icon/marketing.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/3d.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/3d.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/arrow-right.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/arrow-right.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/bookmark.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/bookmark.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/branch.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/branch.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/briefcase.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/briefcase.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/calender.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/calender.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/chevron-left.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/chevron-left.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/chevron-right.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/chevron-right.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/clock.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/clock.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/delete.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/delete.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/download.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/download.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/experience.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/experience.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/eye-2.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/eye-2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/eye.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/eye.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/facebook.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/facebook.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/file.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/file.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/hamburger.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/hamburger.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/health-care.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/health-care.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/heart.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/heart.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/instagram.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/instagram.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/link-2.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/link-2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/link.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/link.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/linkedin.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/linkedin.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/list.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/list.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/loading.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/loading.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/location-alt.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/location-alt.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/location.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/location.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/lock.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/lock.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/login-2.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/login-2.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/login.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/login.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/mailbox.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/mailbox.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/message.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/message.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/minus.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/minus.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/notification.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/notification.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/pen.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/pen.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/phone.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/phone.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/pinterest.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/pinterest.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/plus.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/plus.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/price-tag.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/price-tag.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/qualification.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/qualification.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/quote-1.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/quote-1.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/recycle.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/recycle.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/reply.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/reply.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/review.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/review.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/search.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/search.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/user.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/user.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/vector.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/vector.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/xmark.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/xmark.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon-pac/youtube.svg",
+      "PackagePath": "staticwebassets/assets/img/icon-pac/youtube.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/apple.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/apple.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/apply.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/apply.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/appstore.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/appstore.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/calender-black.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/calender-black.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/calender.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/calender.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/create.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/create.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/facebook-small.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/facebook-small.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/facebook.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/facebook.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/figma.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/figma.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/google-small.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/google-small.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/google.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/google.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/icon-lightbox-arrow.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/icon-lightbox-arrow.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/icon-lightbox-close.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/icon-lightbox-close.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/in.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/in.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/job.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/job.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/khata.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/khata.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/linkedin.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/linkedin.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/location.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/location.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/mail.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/mail.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/microsoft.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/microsoft.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/phone.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/phone.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/playstore-black.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/playstore-black.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/playstore-two.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/playstore-two.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/playstore.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/playstore.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/quote.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/quote.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/udemy.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/udemy.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/upwork.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/upwork.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/user-black.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/user-black.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/icon/user.svg",
+      "PackagePath": "staticwebassets/assets/img/icon/user.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/logo.png",
+      "PackagePath": "staticwebassets/assets/img/logo.png"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/logo/header__one.svg",
+      "PackagePath": "staticwebassets/assets/img/logo/header__one.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/logo/logo__five.svg",
+      "PackagePath": "staticwebassets/assets/img/logo/logo__five.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/logo/logo__six.svg",
+      "PackagePath": "staticwebassets/assets/img/logo/logo__six.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/logo/logo__six__footer.svg",
+      "PackagePath": "staticwebassets/assets/img/logo/logo__six__footer.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/logo/logo__two.svg",
+      "PackagePath": "staticwebassets/assets/img/logo/logo__two.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/logo/logo_three.svg",
+      "PackagePath": "staticwebassets/assets/img/logo/logo_three.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/logo/logo_three_footer.svg",
+      "PackagePath": "staticwebassets/assets/img/logo/logo_three_footer.svg"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-1/1.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-1/1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-1/2.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-1/2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-1/3.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-1/3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-1/4.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-1/4.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-1/5.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-1/5.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-1/6.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-1/6.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-1/blog-details.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-1/blog-details.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-1/r-1.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-1/r-1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-1/r-2.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-1/r-2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-1/r-3.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-1/r-3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-2/1.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-2/1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-2/2.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-2/2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-2/3.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-2/3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-2/4.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-2/4.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-2/5.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-2/5.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-2/6.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-2/6.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-2/r-1.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-2/r-1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-2/r-2.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-2/r-2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-2/r-3.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-2/r-3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-4/1.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-4/1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-4/2.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-4/2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-4/3.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-4/3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-4/4.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-4/4.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-4/5.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-4/5.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/blog-4/6.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/blog-4/6.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/contact.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/contact.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/g-1.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/g-1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/g-2.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/g-2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/g-3.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/g-3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/job-details-4.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/job-details-4.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/p-1.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/p-1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/p-2.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/p-2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/p-3.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/p-3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/recruiting.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/recruiting.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/video-bg-2.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/video-bg-2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/pages/video-bg.webp",
+      "PackagePath": "staticwebassets/assets/img/pages/video-bg.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/team/1.webp",
+      "PackagePath": "staticwebassets/assets/img/team/1.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/team/2.webp",
+      "PackagePath": "staticwebassets/assets/img/team/2.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/img/team/3.webp",
+      "PackagePath": "staticwebassets/assets/img/team/3.webp"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/js/chart-js.js",
+      "PackagePath": "staticwebassets/assets/js/chart-js.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/js/main.js",
+      "PackagePath": "staticwebassets/assets/js/main.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/js/plugins.min.js",
+      "PackagePath": "staticwebassets/assets/js/plugins.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/js/te.js",
+      "PackagePath": "staticwebassets/assets/js/te.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/maps/style.css.map",
+      "PackagePath": "staticwebassets/assets/maps/style.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_accordion.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_accordion.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_backtotop.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_backtotop.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_blog.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_blog.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_button.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_button.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_cat__slider.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_cat__slider.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_components.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_components.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_cta.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_cta.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_explore_job.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_explore_job.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_form.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_form.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_job__card.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_job__card.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_mobile__menu.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_mobile__menu.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_nav.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_nav.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_pagination.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_pagination.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_pricing.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_pricing.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_section.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_section.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_slider-controls.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_slider-controls.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_social.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_social.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_timeline.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_timeline.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_what_we_are.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_what_we_are.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/components/_workprocess.scss",
+      "PackagePath": "staticwebassets/assets/scss/components/_workprocess.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/dashboard/dashboard.scss",
+      "PackagePath": "staticwebassets/assets/scss/dashboard/dashboard.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/default/_animation.scss",
+      "PackagePath": "staticwebassets/assets/scss/default/_animation.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/default/_common.scss",
+      "PackagePath": "staticwebassets/assets/scss/default/_common.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/default/_input.scss",
+      "PackagePath": "staticwebassets/assets/scss/default/_input.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/default/_loader.scss",
+      "PackagePath": "staticwebassets/assets/scss/default/_loader.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/default/_reset.scss",
+      "PackagePath": "staticwebassets/assets/scss/default/_reset.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/default/_serialize.scss",
+      "PackagePath": "staticwebassets/assets/scss/default/_serialize.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/default/_spacing.scss",
+      "PackagePath": "staticwebassets/assets/scss/default/_spacing.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/default/_typography.scss",
+      "PackagePath": "staticwebassets/assets/scss/default/_typography.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/default/_variables.scss",
+      "PackagePath": "staticwebassets/assets/scss/default/_variables.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/mixin/_mixin.scss",
+      "PackagePath": "staticwebassets/assets/scss/mixin/_mixin.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/pages/_candidate.scss",
+      "PackagePath": "staticwebassets/assets/scss/pages/_candidate.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/pages/_employer-details.scss",
+      "PackagePath": "staticwebassets/assets/scss/pages/_employer-details.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/pages/_home-five.scss",
+      "PackagePath": "staticwebassets/assets/scss/pages/_home-five.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/pages/_home-four.scss",
+      "PackagePath": "staticwebassets/assets/scss/pages/_home-four.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/pages/_job-details.scss",
+      "PackagePath": "staticwebassets/assets/scss/pages/_job-details.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_about.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_about.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_appcenter.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_appcenter.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_apply.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_apply.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_banner.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_banner.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_brand.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_brand.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_common-style.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_common-style.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_counter.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_counter.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_footer.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_footer.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_header.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_header.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_section.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_section.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/section/_testimonial.scss",
+      "PackagePath": "staticwebassets/assets/scss/section/_testimonial.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/scss/style.scss",
+      "PackagePath": "staticwebassets/assets/scss/style.scss"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/vendors/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/css/c-niceselect.min.css",
+      "PackagePath": "staticwebassets/assets/vendors/css/c-niceselect.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/css/lightbox.min.css",
+      "PackagePath": "staticwebassets/assets/vendors/css/lightbox.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/css/meanmenu.css",
+      "PackagePath": "staticwebassets/assets/vendors/css/meanmenu.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/css/swiper.min.css",
+      "PackagePath": "staticwebassets/assets/vendors/css/swiper.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/css/te.css",
+      "PackagePath": "staticwebassets/assets/vendors/css/te.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/a-jquery.min.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/a-jquery.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/b-bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/b-bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/c-popper.min.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/c-popper.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/d-swiper-11.1.0.min.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/d-swiper-11.1.0.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/e-niceselect.min.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/e-niceselect.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/f-counterup.min.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/f-counterup.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/g-svginject.min.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/g-svginject.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/h-meanmenu.min.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/h-meanmenu.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/i-lightbox.min.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/i-lightbox.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/j-apexchart.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/j-apexchart.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/assets/vendors/js/wow.min.js",
+      "PackagePath": "staticwebassets/assets/vendors/js/wow.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/yonasyeneneh/Desktop/un-job-zone-project/unjobzone-portal/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.unjobzone-portal.props",
+      "PackagePath": "build\\unjobzone-portal.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.unjobzone-portal.props",
+      "PackagePath": "buildMultiTargeting\\unjobzone-portal.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.unjobzone-portal.props",
+      "PackagePath": "buildTransitive\\unjobzone-portal.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.unjobzone-portal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
