@@ -1,6 +1,5 @@
 using unjobzone_portal;
 using unjobzone_portal.Model;
-using unjobzone_portal.Data;
 using Microsoft.EntityFrameworkCore; // Add this line
 
 namespace unjobzone_portal.Services

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("unjobzone-portal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4fbe3811a12528112935017677aaf590cdae724")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0235180f1dab871e81c694d7bbdd65c49e4de6bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("unjobzone-portal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("unjobzone-portal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
